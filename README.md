@@ -2,6 +2,7 @@
 
 ## 소개
 <img src='./images/profile.jpg' width=50% />
+
 - 이름: 홍정욱
 - 생년월일: 1995년 05월 26일
 - Email: hju4287@naver.com
