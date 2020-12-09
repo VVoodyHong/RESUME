@@ -41,3 +41,26 @@
 
 - [토탈소프트뱅크](http://www.tsb.co.kr/index.php) SW개발부서 인턴 (1개월)
 <br>
+
+## 사용기술
+
+### Langulage
+
+- C/C++
+- Java
+- JavaScript
+- Go
+- Python
+- SQL
+
+### Server
+
+- node.js
+- docker
+
+### Blockchain
+
+- Bitcoin Blockchain
+- Ethereum Blockchain
+- Hyperledger Fabric Blockchain
+
