@@ -5,6 +5,7 @@
 <img src='./images/profile.jpg' width=50% />
 
 - 이름: 홍정욱
+- 군필여부: 해병대 병장 만기전역
 - 생년월일: 1995년 05월 26일
 - Email: hju4287@naver.com
 - Github: github.com/VVoodyHong
