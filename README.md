@@ -1,5 +1,5 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/VVoodyHong/RESUME/blob/main/images/profile.jpg)
-- 이름: 
+<img src='./images/profile.jpg' width=50% />
+- 이름: 홍정욱
