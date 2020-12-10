@@ -53,7 +53,7 @@
 
 ### Server
 
-- **node.js**<br>간단한 server/client 구축을 하여 간단한 채팅 서비스를 구현할 수 있습니다.
+- **node.js**<br>간단한 server/client를 구축하여 채팅 서비스를 구현할 수 있습니다.
 - **docker**<br>Linux 환경에서 yaml 파일으로 docker, docker-compose 등을 통해 네트워크를 구축할 수 있습니다.
 
 ### Blockchain
