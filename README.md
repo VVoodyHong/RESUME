@@ -1,5 +1,3 @@
-# 이력서
-<br>
 
 ## 소개
 <img src='./images/profile.jpg' width=50% />
@@ -44,23 +42,23 @@
 
 ## 사용기술
 
-### Langulage
+### Programming skills
 
-- C/C++
-- Java
-- JavaScript
-- Go
-- Python
-- SQL
+- **C/C++**<br>프로그래밍 입문 언어이고 STL과 포인터 등의 C/C++ 특징을 이해하고 적절히 사용할 수 있습니다.
+- **Java**<br>객체 지향적인 특징을 통해 여러가지 알고리즘과 간단한 프로젝트를 해보며 숙련도를 높였습니다.
+- **JavaScript**<br>JavaScript를 통해 간단한 비트코인 블록체인을 구현해보았습니다.
+- **Go**<br>Golang으로 작성된 하이퍼레저 패브릭 블록체인의 체인코드를 이해하고 응용할 수 있습니다.
+- **Python**<br>간결하고 명확한 Python만의 특징이 담긴 기본 문법을 익혔습니다. 
+- **SQL**<br>Query를 통해 DB에 접근하여 원하는 데이터를 가져오고 저장할 수 있습니다.
 
 ### Server
 
-- node.js
-- docker
+- **node.js**<br>간단한 server/client 구축을 하여 간단한 채팅 서비스를 구현할 수 있습니다.
+- **docker**<br>Linux 환경에서 yaml 파일으로 docker, docker-compose 등을 통해 네트워크를 구축할 수 있습니다.
 
 ### Blockchain
 
-- Bitcoin Blockchain
-- Ethereum Blockchain
-- Hyperledger Fabric Blockchain
+- **Bitcoin Blockchain**<br>간단한 비트코인 블록체인 코딩을 하며 링크드리스트, 채굴, 작업증명(POW) 등을 이해하고 구현할 수 있습니다.
+- **Ethereum Blockchain**<br>Solidity를 활용한 이더리움 블록체인의 핵심기능인 Smart Contract를 작성하고 네트워크를 구축해보았습니다.
+- **Hyperledger Fabric Blockchain**<br>yaml 파일을 통해 genesis.block, channel.tx 등의 파일을 생성할 수 있고 docker를 통해 네트워크 구축을 할 수 있습니다.
 
