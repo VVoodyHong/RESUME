@@ -32,7 +32,7 @@
 
 #### 고려대학교 팬데믹 블록체인 아이디어톤 - 장려상
 
-- 수상 날짜 : 2020년 12월
+- 수상 날짜 : 2020년 11월
 <br>
 
 ## 경력사항
@@ -53,6 +53,11 @@
 
 ### Tools
 
+- **VS/VS Code**<br>VS/VS Code를 이용하여 소스코드를 능숙하게 작성할 수 있고, VS의 MFC를 통해 간단한 프로그램을 만들 수 있습니다.
+- **mySQL**<br>database에 적절한 table과 field를 생성하여 데이터를 다룰 수 있습니다.
+- **Virtual Box**<br>단일 기기에 Virtual Box를 통한 가상화로 여러 운영체제를 실행할 수 있습니다.
+- **Ubuntu**<br>Linux 환경에서 필요한 작업들을 능숙하게 할 수 있습니다.
+- **intelliJ IDEA**<br>IDEA 환경 내에서 gradle을 기반으로 한 하이퍼레저 패브릭 java 체인코드 빌드 자동화와 같은 작업을 할 수 있습니다.
 - **node.js**<br>간단한 server/client를 구축하여 채팅 서비스를 구현할 수 있습니다.
 - **docker**<br>yaml 파일을 작성해 컨테이너를 생성하여 docker, docker-compose 등을 통해 하이퍼레저 패브릭 네트워크를 구축할 수 있습니다.
 
